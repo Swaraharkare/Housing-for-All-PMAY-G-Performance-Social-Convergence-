@@ -1,18 +1,6 @@
 # Housing for All: PMAY-G Performance & Social Convergence Dashboard
 
-[![Microsoft Elevate](https://shields.io)](https://github.com)
-[![Power BI](https://shields.io)](https://microsoft.com)
-[![Python](https://shields.io)](https://python.org)
-
 An enterprise-grade hybrid analytics application combining **Microsoft Power BI Desktop (Developer Mode)** and an automated **Python Data Science Pipeline** to monitor, evaluate, and cross-validate the execution velocity and multi-scheme social convergence metrics of the **Pradhan Mantri Awaas Yojana-Gramin (PMAY-G)** scheme.
-
----
-
-## 👤 Capstone Project Metadata
-*   **Student Name:** Swaranjali Baburao Harkare
-*   **College Name:** Dr. J. J. Magdum College Of Engineering, Jaysingpur
-*   **Department / Program:** Master of Computer Applications (MCA)
-*   **Internship Framework:** Microsoft Elevate AICTE Power BI & Python Analytics Internship
 
 ---
 
