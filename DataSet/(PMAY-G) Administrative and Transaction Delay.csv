@@ -1,0 +1,255 @@
+Country,State,Year,As On Date,Category,"Number Of Houses Sanctioned (UOM:Number), Scaling Factor:1","Number Of Houses Completed (UOM:Number), Scaling Factor:1","Average Construction Time (UOM:Days), Scaling Factor:1","Average Administrative Time (UOM:Days), Scaling Factor:1","Average Financial Transaction Time (UOM:Days), Scaling Factor:1","Actual Average Completion Time (UOM:Days), Scaling Factor:1","Average Completion Time (UOM:Days), Scaling Factor:1"
+India,Assam,"Financial Year (Apr - Mar), 2024",11-Mar-2026,All Category,6467,0,0,0,0,0,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2024",11-Mar-2026,All Category,5064,0,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2024",11-Mar-2026,All Category,8091,0,0,0,0,0,0
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2024",11-Mar-2026,All Category,504,0,0,0,0,0,0
+India,Jharkhand,"Financial Year (Apr - Mar), 2024",11-Mar-2026,All Category,237,0,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2024",11-Mar-2026,All Category,1,0,0,0,0,0,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2024",11-Mar-2026,All Category,9,0,0,0,0,0,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2024",11-Mar-2026,All Category,5932,0,0,0,0,0,0
+India,Odisha,"Financial Year (Apr - Mar), 2024",11-Mar-2026,All Category,1269,0,0,0,0,0,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2024",11-Mar-2026,All Category,413,0,0,0,0,0,0
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2024",11-Mar-2026,All Category,1591,0,0,0,0,0,0
+India,Andaman and Nicobar Islands,"Financial Year (Apr - Mar), 2023",11-Mar-2026,All Category,1835,0,0,0,0,0,0
+India,Andaman and Nicobar Islands,"Financial Year (Apr - Mar), 2023",11-Mar-2026,Others,1567,0,0,0,0,0,0
+India,Assam,"Financial Year (Apr - Mar), 2023",11-Mar-2026,All Category,76506,5,19,4,4,27,28
+India,Assam,"Financial Year (Apr - Mar), 2023",11-Mar-2026,Others,26530,0,0,0,0,0,0
+India,Assam,"Financial Year (Apr - Mar), 2023",11-Mar-2026,SC,16492,0,0,0,0,0,0
+India,Jammu and Kashmir,"Financial Year (Apr - Mar), 2023",11-Mar-2026,All Category,138091.94754222581646682615,28.44930542908072800439,5,0,2,7,8
+India,Jammu and Kashmir,"Financial Year (Apr - Mar), 2023",11-Mar-2026,Others,91304.61223777246609739952,14.71515798055899724365,5,0,2,7,9
+India,Jammu and Kashmir,"Financial Year (Apr - Mar), 2023",11-Mar-2026,SC,10916.68520051070142182248,0.00000000000000000000,0,0,0,0,0
+India,Ladakh,"Financial Year (Apr - Mar), 2023",11-Mar-2026,All Category,2673.05245777418353317385,0.55069457091927199561,5,0,2,7,8
+India,Ladakh,"Financial Year (Apr - Mar), 2023",11-Mar-2026,Others,1767.38776222753390260048,0.28484201944100275635,5,0,2,7,9
+India,Ladakh,"Financial Year (Apr - Mar), 2023",11-Mar-2026,SC,211.31479948929857817752,0.00000000000000000000,0,0,0,0,0
+India,Manipur,"Financial Year (Apr - Mar), 2023",11-Mar-2026,All Category,40896,0,0,0,0,0,0
+India,Manipur,"Financial Year (Apr - Mar), 2023",11-Mar-2026,Others,29256,0,0,0,0,0,0
+India,Manipur,"Financial Year (Apr - Mar), 2023",11-Mar-2026,SC,1114,0,0,0,0,0,0
+India,Meghalaya,"Financial Year (Apr - Mar), 2023",11-Mar-2026,All Category,109818,0,0,0,0,0,0
+India,Meghalaya,"Financial Year (Apr - Mar), 2023",11-Mar-2026,Others,650,0,0,0,0,0,0
+India,Meghalaya,"Financial Year (Apr - Mar), 2023",11-Mar-2026,SC,631,0,0,0,0,0,0
+India,Mizoram,"Financial Year (Apr - Mar), 2023",11-Mar-2026,All Category,9459,0,0,0,0,0,0
+India,Mizoram,"Financial Year (Apr - Mar), 2023",11-Mar-2026,SC,92,0,0,0,0,0,0
+India,Nagaland,"Financial Year (Apr - Mar), 2023",11-Mar-2026,All Category,26054,0,0,0,0,0,0
+India,Nagaland,"Financial Year (Apr - Mar), 2023",11-Mar-2026,SC,1,0,0,0,0,0,0
+India,The Dadra and Nagar Haveli and Daman and Diu,"Financial Year (Apr - Mar), 2023",11-Mar-2026,All Category,5151.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"Financial Year (Apr - Mar), 2023",11-Mar-2026,Others,29.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000
+India,The Dadra and Nagar Haveli and Daman and Diu,"Financial Year (Apr - Mar), 2023",11-Mar-2026,SC,76.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000
+India,Tripura,"Financial Year (Apr - Mar), 2023",11-Mar-2026,All Category,116275,156,21,6,3,30,30
+India,Tripura,"Financial Year (Apr - Mar), 2023",11-Mar-2026,Others,34645,98,22,7,4,33,32
+India,Tripura,"Financial Year (Apr - Mar), 2023",11-Mar-2026,SC,19496,7,18,1,2,21,21
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2023",11-Mar-2026,All Category,116304,0,0,0,0,0,0
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2023",11-Mar-2026,Others,112905,0,0,0,0,0,0
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2023",11-Mar-2026,SC,51,0,0,0,0,0,0
+India,Andaman and Nicobar Islands,"Financial Year (Apr - Mar), 2022",11-Mar-2026,Minority,66,0,0,0,0,0,0
+India,Andaman and Nicobar Islands,"Financial Year (Apr - Mar), 2022",11-Mar-2026,Others,190,0,0,0,0,0,0
+India,Andaman and Nicobar Islands,"Financial Year (Apr - Mar), 2022",11-Mar-2026,SC,1,0,0,0,0,0,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2022",11-Mar-2026,Minority,299,0,0,0,0,0,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2022",11-Mar-2026,Others,31211,81,47,31,4,82,77
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2022",11-Mar-2026,SC,12665,32,52,29,3,84,80
+India,Gujarat,"Financial Year (Apr - Mar), 2022",11-Mar-2026,All Category,10771,0,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2022",11-Mar-2026,Minority,1014,83,56,14,4,74,116
+India,Gujarat,"Financial Year (Apr - Mar), 2022",11-Mar-2026,Others,40885,4621,57,15,4,76,115
+India,Gujarat,"Financial Year (Apr - Mar), 2022",11-Mar-2026,SC,11267,1489,54,16,4,74,117
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2022",11-Mar-2026,All Category,597874,0,0,0,0,0,0
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2022",11-Mar-2026,Minority,31020,15619,78,10,24,112,95
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2022",11-Mar-2026,Others,676430,335618,84,10,24,118,100
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2022",11-Mar-2026,SC,139675,65860,91,12,23,126,110
+India,Uttarakhand,"Financial Year (Apr - Mar), 2022",11-Mar-2026,All Category,15724,0,0,0,0,0,0
+India,Uttarakhand,"Financial Year (Apr - Mar), 2022",11-Mar-2026,Minority,200,62,94,21,4,119,124
+India,Uttarakhand,"Financial Year (Apr - Mar), 2022",11-Mar-2026,Others,6154,2050,102,10,3,115,120
+India,Uttarakhand,"Financial Year (Apr - Mar), 2022",11-Mar-2026,SC,10071,2739,107,11,4,122,125
+India,West Bengal,"Financial Year (Apr - Mar), 2022",11-Mar-2026,All Category,1079045,0,0,0,0,0,0
+India,West Bengal,"Financial Year (Apr - Mar), 2022",11-Mar-2026,Minority,122777,0,0,0,0,0,0
+India,West Bengal,"Financial Year (Apr - Mar), 2022",11-Mar-2026,Others,312667,0,0,0,0,0,0
+India,West Bengal,"Financial Year (Apr - Mar), 2022",11-Mar-2026,SC,514879,0,0,0,0,0,0
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,3221,0,0,0,0,0,0
+India,Assam,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,53993,0,0,0,0,0,0
+India,Bihar,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,52420,0,0,0,0,0,0
+India,Bihar,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,487561,83345,76,10,19,105,103
+India,Gujarat,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,21681,1853,66,22,4,92,98
+India,Gujarat,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,1937,1120,88,24,5,117,150
+India,Haryana,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,604,0,0,0,0,0,0
+India,Haryana,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,3559,119,53,18,5,76,107
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,2303,0,0,0,0,0,0
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,1897,45,54,56,7,117,137
+India,Jammu and Kashmir,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,32.37334755722979393603,0.00000000000000000000,0,0,0,0,0
+India,Jammu and Kashmir,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,8057.03949962206962413983,5.88606319222359889746,41,11,4,56,100
+India,Jharkhand,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,368223,17896,100,21,5,126,121
+India,Jharkhand,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,97174,34507,176,40,5,221,197
+India,Kerala,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,7480,1,63,12,4,79,78
+India,Kerala,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,5806,117,123,22,5,150,143
+India,Ladakh,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,0.62665244277020606397,0.00000000000000000000,0,0,0,0,0
+India,Ladakh,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,155.96050037793037586017,0.11393680777640110254,41,11,4,56,100
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,386499,3881,56,15,8,79,76
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,196145,11771,93,18,8,119,112
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,21112,1,33,10,5,48,48
+India,Maharashtra,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,67635,1843,67,29,9,105,100
+India,Manipur,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,1322,0,0,0,0,0,0
+India,Nagaland,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,2599,0,0,0,0,0,0
+India,Nagaland,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,1,0,0,0,0,0,0
+India,Punjab,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,11555,0,0,0,0,0,0
+India,Punjab,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,8612,51,87,6,3,96,96
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,374293,1038,47,23,5,75,76
+India,Rajasthan,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,116288,24204,72,-32,14,54,153
+India,Sikkim,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,64,0,0,0,0,0,0
+India,Sikkim,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,18,0,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,226551,0,0,0,0,0,0
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,131958,7837,27,52,8,87,82
+India,The Dadra and Nagar Haveli and Daman and Diu,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,4.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000,0.00000000000000000000
+India,Tripura,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,156243,5,48,2,5,55,71
+India,Tripura,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,38825,15977,170,37,6,213,228
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,427187,313111,111,24,7,142,136
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,240721,233126,128,30,8,166,156
+India,Uttarakhand,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,2782,0,0,0,0,0,0
+India,Uttarakhand,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,1537,734,166,31,7,204,195
+India,West Bengal,"Financial Year (Apr - Mar), 2021",11-Mar-2026,All Category,151175,21354,62,26,3,91,85
+India,West Bengal,"Financial Year (Apr - Mar), 2021",11-Mar-2026,SC,14701,10146,111,44,5,160,135
+India,Andaman and Nicobar Islands,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,517,199,158,33,5,196,194
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,12626,3,51,9,4,64,113
+India,Assam,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,269291,14018,67,31,4,102,143
+India,Bihar,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,239137,129360,107,40,7,154,135
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,157815,0,0,0,0,0,0
+India,Gujarat,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,87550,714,84,79,4,167,226
+India,Haryana,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,253,5,14,52,5,71,52
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,3887,400,3,293,4,300,257
+India,Jammu and Kashmir,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,46818.72764147854289687975,8312.10223795175890969643,113,82,19,214,220
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,347994,180804,180,39,5,224,198
+India,Ladakh,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,906.27235852145710312025,160.89776204824109030357,113,82,19,214,220
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,624965,185699,122,30,6,158,143
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,255653,105784,101,61,8,170,139
+India,Manipur,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,15045,0,0,0,0,0,0
+India,Meghalaya,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,23190,11,56,0,1,57,97
+India,Mizoram,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,5432,0,0,0,0,0,0
+India,Nagaland,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,2467,0,0,0,0,0,0
+India,Odisha,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,189009,154600,94,45,7,146,112
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,202899,132378,135,59,41,235,207
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,732106,577313,126,42,19,187,194
+India,Uttarakhand,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,12475,2,50,0,1,51,51
+India,West Bengal,"Financial Year (Apr - Mar), 2020",11-Mar-2026,All Category,892297,536263,176,56,3,235,212
+India,Andaman and Nicobar Islands,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,247,153,279,85,6,370,355
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,7470,1351,83,51,9,143,136
+India,Assam,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,227060,213864,180,40,5,225,327
+India,Bihar,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,1288957,1224612,313,54,12,379,363
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,151080,74435,154,403,7,564,564
+India,Gujarat,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,105703,101280,182,65,5,252,382
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,871,809,296,167,7,470,361
+India,Jammu and Kashmir,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,54096,40680,266,282,31,579,469
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,321757,302895,342,75,6,423,362
+India,Karnataka,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,24596,3666,0,0,0,0,0
+India,Ladakh,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,201,201,72,54,21,147,117
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,599870,571818,220,87,11,318,266
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,301606,255318,291,150,11,452,351
+India,Manipur,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,8849,7345,178,113,5,296,415
+India,Meghalaya,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,17154,12959,234,143,7,384,474
+India,Mizoram,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,1500,26,41,10,10,61,60
+India,Nagaland,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,5900,991,189,281,7,477,486
+India,Odisha,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,655865,593131,208,84,7,299,229
+India,Punjab,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,9995,9341,303,102,5,410,377
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,445981,423293,215,72,17,304,293
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,184039,101109,178,90,7,275,245
+India,Tripura,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,23652,22989,193,23,6,222,278
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,171136,170095,104,17,8,129,133
+India,West Bengal,"Financial Year (Apr - Mar), 2019",11-Mar-2026,All Category,1026166,1008992,264,78,20,362,312
+India,Andaman and Nicobar Islands,"Financial Year (Apr - Mar), 2018",11-Mar-2026,All Category,313,156,181,71,6,258,221
+India,Andaman and Nicobar Islands,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Minority,42,22,161,146,7,314,242
+India,Andaman and Nicobar Islands,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Others,271,162,252,83,6,341,308
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2018",11-Mar-2026,All Category,348802,325487,178,145,58,381,268
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Minority,632,580,199,564,57,820,331
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Others,138152,132738,165,363,57,585,261
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2018",11-Mar-2026,SC,79124,74824,194,356,58,608,291
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",11-Mar-2026,All Category,138859,134360,265,112,6,383,285
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Minority,374,368,291,73,6,370,306
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Others,54628,54169,272,120,6,398,293
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",11-Mar-2026,SC,30277,29948,287,130,6,423,309
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2018",11-Mar-2026,All Category,565897,553089,179,36,8,223,197
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Minority,7778,7682,152,31,8,191,169
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Others,221929,219238,181,36,8,225,199
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2018",11-Mar-2026,SC,113738,112241,175,36,8,219,192
+India,Maharashtra,"Financial Year (Apr - Mar), 2018",11-Mar-2026,All Category,66160,59165,230,159,12,401,282
+India,Maharashtra,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Minority,429,180,211,60,10,281,247
+India,Maharashtra,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Others,26071,24198,245,198,12,455,305
+India,Maharashtra,"Financial Year (Apr - Mar), 2018",11-Mar-2026,SC,5847,5172,331,175,12,518,389
+India,Odisha,"Financial Year (Apr - Mar), 2018",11-Mar-2026,All Category,255936,240992,250,121,7,378,283
+India,Odisha,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Minority,1892,1781,250,106,7,363,290
+India,Odisha,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Others,100751,96835,236,121,7,364,272
+India,Odisha,"Financial Year (Apr - Mar), 2018",11-Mar-2026,SC,50666,47216,290,123,7,420,326
+India,Rajasthan,"Financial Year (Apr - Mar), 2018",11-Mar-2026,All Category,212873,208911,168,38,4,210,215
+India,Rajasthan,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Minority,11018,10932,157,46,4,207,213
+India,Rajasthan,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Others,70843,70150,175,43,4,222,224
+India,Rajasthan,"Financial Year (Apr - Mar), 2018",11-Mar-2026,SC,52721,52133,156,40,4,200,208
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2018",11-Mar-2026,All Category,21000,13581,216,58,6,280,258
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Minority,260,223,231,51,6,288,266
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Others,8151,7068,255,63,6,324,301
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2018",11-Mar-2026,SC,11615,8156,376,80,7,463,434
+India,The Dadra and Nagar Haveli and Daman and Diu,"Financial Year (Apr - Mar), 2018",11-Mar-2026,All Category,4581,1278,413,82,10,505,467
+India,The Dadra and Nagar Haveli and Daman and Diu,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Minority,7,6,528,257,10,795,687
+India,The Dadra and Nagar Haveli and Daman and Diu,"Financial Year (Apr - Mar), 2018",11-Mar-2026,SC,1,0,0,0,0,0,0
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2018",11-Mar-2026,All Category,309835,308502,92,10,16,118,124
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Minority,20603,20517,102,12,20,134,142
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Others,269049,268387,90,10,15,115,122
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2018",11-Mar-2026,SC,17350,17259,113,14,18,145,153
+India,West Bengal,"Financial Year (Apr - Mar), 2018",11-Mar-2026,All Category,585685,572330,146,25,10,181,215
+India,West Bengal,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Minority,175150,174173,129,28,10,167,193
+India,West Bengal,"Financial Year (Apr - Mar), 2018",11-Mar-2026,Others,77522,76816,143,28,10,181,213
+India,West Bengal,"Financial Year (Apr - Mar), 2018",11-Mar-2026,SC,251931,249463,159,25,9,193,233
+India,Andaman and Nicobar Islands,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,185,98,205,60,6,271,257
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,5341.67530201324404014310,4002.17262689065684964850,0,0,0,0,0
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,2118,17,174,57,10,241,239
+India,Assam,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,35781,33694,235,32,6,273,327
+India,Bihar,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,534088,486486,318,57,8,383,368
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,206192,200901,146,83,11,240,221
+India,Gujarat,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,90747,87863,210,182,10,402,287
+India,Haryana,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,9302,9123,218,251,10,479,455
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,2443,2364,144,78,5,227,234
+India,Jammu and Kashmir,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,19068,16963,234,135,15,384,419
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,158989,153828,271,221,14,506,325
+India,Karnataka,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,49314,27658,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,5565,4931,244,22,6,272,256
+India,Ladakh,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,631,631,64,126,27,217,200
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,389522,378369,207,43,12,262,249
+India,Maharashtra,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,144027,131277,204,244,26,474,323
+India,Meghalaya,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,3715,3300,212,59,6,277,412
+India,Mizoram,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,1794,691,223,272,5,500,460
+India,Odisha,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,340471,323550,246,114,11,371,280
+India,Punjab,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,3998,3933,101,41,5,147,148
+India,Rajasthan,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,222780,219335,195,38,8,241,254
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,130213,99160,229,65,6,300,274
+India,Telangana,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,3487.32469798675595985690,2612.82737310934315035150,0,0,0,0,0
+India,The Dadra and Nagar Haveli and Daman and Diu,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,751.00000000000000000000,437.00000000000000000000,-15.50000000000000000000,139.50000000000000000000,9.00000000000000000000,133.00000000000000000000,199.00000000000000000000
+India,Tripura,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,1259,1221,241,31,6,278,329
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,394874,391954,126,15,20,161,169
+India,Uttarakhand,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,4086,4020,134,98,5,237,223
+India,West Bengal,"Financial Year (Apr - Mar), 2017",11-Mar-2026,All Category,375054,369623,190,70,13,273,242
+India,Andaman and Nicobar Islands,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,209,59,302,87,7,396,329
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,35721.28136611914765184380,24256.85670898368935343270,0,0,0,0,0
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,8940,784,-11,132,13,134,163
+India,Assam,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,206881,195987,310,49,11,370,442
+India,Bihar,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,633128,573601,417,68,10,495,492
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,232628,226330,216,56,17,289,254
+India,Goa,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,241,130,272,105,5,382,465
+India,Gujarat,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,113400,109874,248,193,12,453,325
+India,Haryana,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,11671,11502,351,181,16,548,453
+India,Himachal Pradesh,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,4743,4613,206,120,14,340,283
+India,Jammu and Kashmir,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,14441,13217,244,126,11,381,429
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,230831,223542,287,235,26,548,351
+India,Karnataka,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,89359,60055,0,0,0,0,0
+India,Kerala,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,16222,14013,309,37,17,363,342
+India,Ladakh,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,596,596,63,138,14,215,242
+India,Lakshadweep,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,53,44,468,27,54,549,771
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,448145,431419,216,41,18,275,299
+India,Maharashtra,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,223916,209959,270,171,27,468,381
+India,Manipur,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,9747,9716,277,131,8,416,533
+India,Meghalaya,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,17030,16314,286,151,7,444,547
+India,Mizoram,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,4806,4708,251,124,9,384,317
+India,Nagaland,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,4239,4239,0,0,1,1,418
+India,Odisha,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,396044,377078,299,108,18,425,348
+India,Punjab,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,10000,9843,221,45,5,271,252
+India,Rajasthan,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,249786,245980,219,69,19,307,332
+India,Sikkim,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,1079,1070,262,85,9,356,331
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,176338,142912,348,91,9,448,402
+India,Telangana,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,23320.71863388085234815620,15836.14329101631064656730,0,0,0,0,0
+India,The Dadra and Nagar Haveli and Daman and Diu,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,290,169,258,174,8,440,504
+India,Tripura,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,23729,23278,293,41,9,343,441
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,571929,565693,200,32,21,253,279
+India,Uttarakhand,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,8576,8401,264,105,15,384,337
+India,West Bengal,"Financial Year (Apr - Mar), 2016",11-Mar-2026,All Category,431817,425457,223,66,40,329,293
